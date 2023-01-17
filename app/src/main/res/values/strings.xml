@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculatorApp</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="slash">/</string>
+    <string name="dot">.</string>
+</resources>
